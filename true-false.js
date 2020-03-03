@@ -4,6 +4,7 @@
 //undefined
 //NaN
 //null
+//false
 
 let name;
 if(name){
