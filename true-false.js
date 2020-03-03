@@ -3,8 +3,9 @@
 //0
 //undefined
 //NaN
+//null
 
-const name = null;
+let name;
 if(name){
     console.log("condition is true.")
 }else{
